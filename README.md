@@ -8,11 +8,18 @@
 ---
 
 ## 🥁 Drums
-
+- [WHEEZY DRUM KIT](https://mega.nz/file/zJ0WzYZR#-EA3CFoBTxkjK-vC4c_tewUCTZtpYB3uK5gbIl59AKQ)
 ---
 
 ## 🎛️ Plugins
-- [Pack de Plugins 1](https://mega.nz/file/zJ0WzYZR#-EA3CFoBTxkjK-vC4c_tewUCTZtpYB3uK5gbIl59AKQ)
-  - fasdf
+- [Pack de Plugins 1]()
+  - Antares Auto-Tune Unlimited 2021.12 (x64) [FileCR]
+  - iZotope Ozone 9 Advanced v9.1.0 COMPLETO
+  - iZotope Nectar Plus 3.8.0 (x64) [FileCR]
+  - Bertom Denoiser Pro v3.0.2 [FileCR]
+  - FabFilter Total Bundle 2023.03 [FileCR]
+  - KeyFinder-WIN-1-25
+  - Oeksound Soothe2 v1.1.2 [FileCR]
+  - Slate Digital Fresh Air 1.0.8 [FileCR]
 
 ---
