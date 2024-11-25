@@ -12,7 +12,7 @@
 ---
 
 ## 🎛️ Plugins
-- [Pack de Plugins 1]()
+- [Pack de Plugins 1](https://mega.nz/file/eYtmnCaR#59Y_G-dtkL5kpY58Jxzwh4LYhUf1vftRGAklvDADi_c)
   - Antares Auto-Tune Unlimited 2021.12 (x64) [FileCR]
   - iZotope Ozone 9 Advanced v9.1.0 COMPLETO
   - iZotope Nectar Plus 3.8.0 (x64) [FileCR]
