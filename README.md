@@ -23,3 +23,6 @@
   - Slate Digital Fresh Air 1.0.8 [FileCR]
 
 ---
+
+## 🥭 FL
+- [FL Studio 21.2.3](https://mega.nz/file/DU833ZiK#XGSkLATLNTnETs74bMtqkHyCD9EQMnywXDAv09L12tw)
