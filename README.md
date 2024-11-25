@@ -2,8 +2,11 @@
 
 ## 🎹 Samples
 
-- [Sample Pack 1](https://mega.nz/example-sample-pack-1) - Descrição do pack.
-- [Sample Pack 2](https://mega.nz/example-sample-pack-2) - Descrição do pack.
+### 3 em 1 
+- CAPSUN ProAudio Trap Soul and Liquid Gold
+- Cymatics - EQUINOX Beta
+- Cymatics - Phoenix Beta
+- https://mega.nz/file/jZ1iXQ7R#BX0tmncYf1uvNY0bKZ2RLO6jNQuZ6cAyxaBo8tpfF7M
 
 ---
 
