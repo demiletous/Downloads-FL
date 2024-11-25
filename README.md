@@ -12,5 +12,7 @@
 ---
 
 ## 🎛️ Plugins
+- [Pack de Plugins 1](https://mega.nz/file/zJ0WzYZR#-EA3CFoBTxkjK-vC4c_tewUCTZtpYB3uK5gbIl59AKQ)
+  - fasdf
 
 ---
