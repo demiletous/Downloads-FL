@@ -9,13 +9,8 @@
 
 ## 🥁 Drums
 
-- [Drum Pack 1](https://mega.nz/example-drum-pack-1) - Descrição do pack.
-
 ---
 
 ## 🎛️ Plugins
-
-- [Plugin Pack 1](https://mega.nz/example-plugin-pack-1) - Descrição do plugin.
-- [Plugin Pack 2](https://mega.nz/example-plugin-pack-2) - Descrição do plugin.
 
 ---
